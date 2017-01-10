@@ -16,5 +16,12 @@ Attention Natural Language Processing, machine learning, data mining, big data, 
 
 引用地址:https://github.com/sunying1985/lorn/blob/master/mlvideo.md
 
+##最全的机器学习&深度学习入门视频课程集
+
+资源介绍
+链接：http://pan.baidu.com/s/1kV6nWJP 密码：ryfd
+
+链接：http://pan.baidu.com/s/1dEZWlP3 密码：y82m
+
 ##声明
 感谢提供者的辛勤劳动和智慧结晶！
